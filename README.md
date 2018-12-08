@@ -37,3 +37,49 @@ Your submission should be in the form of a repository containing a Jupyter noteb
 - Explain any relevant terminology such as the terms quartile and percentile. – *Research what ‘quartile’ and ‘percentile’ mean and find definitions.*
 
 - Compare the box plot to alternatives. - *Locate at lease 2 alternatives to box plot, and weigh up the pros and cons of box plot versus these other options.*
+
+I received the results of my assignment which I had completed for this module in November by email from Dr Ian McLoughlin on 04th December. I reviewed the constructive feedback carefully and will try to apply it to this project.
+
+### Ian’s feedback;
+
+#### -	Research
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Make sure to inform yourself of other people's approaches to problems like the one set out in the assignment brief. In your submission, you might summarise your findings and then make an informed decision as to your approach to the problem. You can provide evidence that you carried out this research by documenting it within your submission.
+
+- Try to break the overall assignment into smaller components. Research each of these components, and then consider how they might fit together to provide an overall solution.
+
+#### -	Development
+
+Your submission was of a good standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Your comments should be clear, unambiguous and neat.
+
+- Make sure you demonstrate an understanding the various tools, libraries and technologies you are using in your assignment.
+
+- Any files included in your submission should have appropriate names and the layout of your submission should be clear and intuitive. A reviewer of your submission should be able to easily grasp its layout.
+
+#### -	Consistency
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Make sure you manage your own learning and development, including time management and organisational skills, and make this evident in your submissions.
+
+- You should reflect on previous projects you have completed and have the foresight to see common potential issues coming down the tracks during your project.
+
+#### -	Documentation
+
+Your submission was of a good standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- There is a tendency for students to focus on the programming aspect of projects, while neglecting documentation. This is a mistake, as a key aspect of work is communicating with others. Make sure another person looking at your work can easily grasp your ideas.
+
+- You should demonstrate how design choices were made at the very beginning of the project, before any code was written, and how at the end of the project you reflected on your work.
