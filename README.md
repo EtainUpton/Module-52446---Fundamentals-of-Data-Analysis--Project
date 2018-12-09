@@ -36,6 +36,18 @@ Your submission should be in the form of a repository containing a Jupyter noteb
 
 - Explain any relevant terminology such as the terms quartile and percentile. – *Research what ‘quartile’ and ‘percentile’ mean and find definitions.*
 
+### Quartile: 
+A quartile is a type of quantile. The first quartile (Q1) is defined as the middle number between the smallest number and the median of the data set. The second quartile (Q2) is the median of the data. The third quartile (Q3) is the middle value between the median and the highest value of the data set. (Source: https://en.wikipedia.org/wiki/Quartile) 
+
+![Screenshot](Quartile.jpg)
+
+Quantile: In statistics and probability quantiles are cut points dividing the range of a probability distribution into continuous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one less quantile than the number of groups created. (Source: https://en.wikipedia.org/wiki/Quantile)
+
+### Percentile: 
+A percentile (or a centile) is a measure used in statistics indicating the value below which a given percentage of observations in a group of observations fall. For example, the 20th percentile is the value (or score) below which 20% of the observations may be found.
+
+The term percentile and the related term percentile rank are often used in the reporting of scores from norm-referenced tests. For example, if a score is at the 86th percentile, where 86 is the percentile rank, it is equal to the value below which 86% of the observations may be found (carefully contrast with in the 86th percentile, which means the score is at or below the value of which 86% of the observations may be found - every score is in the 100th percentile). The 25th percentile is also known as the first quartile (Q1), the 50th percentile as the median or second quartile (Q2), and the 75th percentile as the third quartile (Q3). In general, percentiles and quartiles are specific types of quantiles. (Source: https://en.wikipedia.org/wiki/Percentile)
+
 - Compare the box plot to alternatives. - *Locate at lease 2 alternatives to box plot, and weigh up the pros and cons of box plot versus these other options.*
 
 I received the results of my assignment which I had completed for this module in November by email from Dr Ian McLoughlin on 04th December. I reviewed the constructive feedback carefully and will try to apply it to this project.
