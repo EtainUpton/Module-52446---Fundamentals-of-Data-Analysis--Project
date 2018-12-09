@@ -39,7 +39,7 @@ Your submission should be in the form of a repository containing a Jupyter noteb
 ### Quartile: 
 A quartile is a type of quantile. The first quartile (Q1) is defined as the middle number between the smallest number and the median of the data set. The second quartile (Q2) is the median of the data. The third quartile (Q3) is the middle value between the median and the highest value of the data set. (Source: https://en.wikipedia.org/wiki/Quartile) 
 
-![Screenshot](Quartile.jpg)
+![Screenshot](Quartile.JPG)
 
 Quantile: In statistics and probability quantiles are cut points dividing the range of a probability distribution into continuous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one less quantile than the number of groups created. (Source: https://en.wikipedia.org/wiki/Quantile)
 
